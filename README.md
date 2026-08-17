@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Nathan 👋
 
-<!--
-**nathanfafon/nathanfafon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Systems Analysis & Development Student** (2nd Semester) | 💻 **Junior / Apprentice Developer**
 
-Here are some ideas to get you started:
+I am passionate about software engineering, clean code, and database management. Currently building solid foundations in object-oriented programming, web technologies, and refactoring patterns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Java, Python, SQL
+- **Database:** PostgreSQL / MySQL
+- **Tools & Productivity:** Git, GitHub, Microsoft 365
+- **Languages:** English (C2 - Proficient / Native Level), Portuguese (Native)
+
+---
+
+### 📌 Featured Projects
+
+Here are a few key projects I've been working on:
+
+#### 📚 Bibliotech Suite
+A complete library management system evolution showing backend fundamentals, web integration, and refactoring best practices.
+
+* 🔹 **[Bibliotech](#)** — Core Library Management system (Java/Python) covering CRUD operations, logic, and data structures.
+* 🌐 **[Bibliotech-Web](#)** — Web-based implementation bringing the core system into a browser interface.
+* ⚡ **[Bibliotech_Refatorado](#)** — Refactored version applying Clean Code principles, design patterns, and improved architecture.
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nathanfafon/)
+- ✉️ **Email:** nathanfafon@gmail.com
