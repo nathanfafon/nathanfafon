@@ -22,13 +22,13 @@ Here are a few key projects I've been working on:
 #### Bibliotech Suite
 A complete library management system evolution showing backend fundamentals, web integration, and refactoring best practices.
 
-* 🔹 **[Bibliotech](#)** — Core Library Management system (Java/Python) covering CRUD operations, logic, and data structures.
-* 🌐 **[Bibliotech-Web](#)** — Web-based implementation bringing the core system into a browser interface.
-* ⚡ **[Bibliotech_Refatorado](#)** — Refactored version applying Clean Code principles, design patterns, and improved architecture.
+* **[Bibliotech](#)** — Core Library Management system (Java/Python) covering CRUD operations, logic, and data structures.
+* **[Bibliotech-Web](#)** — Web-based implementation bringing the core system into a browser interface.
+* **[Bibliotech_Refatorado](#)** — Refactored version applying Clean Code principles, design patterns, and improved architecture.
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
-- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nathanfafon/)
-- ✉️ **Email:** nathanfafon@gmail.com
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nathanfafon/)
+- **Email:** nathanfafon@gmail.com
