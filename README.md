@@ -1,4 +1,4 @@
-# Hi there, I'm Nathan 👋
+# Hi there, I'm Nathan 
 
 🎓 **Systems Analysis & Development Student** (2nd Semester) | 💻 **Junior / Apprentice Developer**
 
@@ -6,7 +6,7 @@ I am passionate about software engineering, clean code, and database management.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 - **Languages:** Java, Python, SQL
 - **Database:** PostgreSQL / MySQL
@@ -15,11 +15,11 @@ I am passionate about software engineering, clean code, and database management.
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 Here are a few key projects I've been working on:
 
-#### 📚 Bibliotech Suite
+#### Bibliotech Suite
 A complete library management system evolution showing backend fundamentals, web integration, and refactoring best practices.
 
 * 🔹 **[Bibliotech](#)** — Core Library Management system (Java/Python) covering CRUD operations, logic, and data structures.
