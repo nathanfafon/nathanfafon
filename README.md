@@ -11,7 +11,7 @@ I am passionate about software engineering, clean code, and database management.
 - **Languages:** Java, Python, SQL
 - **Database:** PostgreSQL / MySQL
 - **Tools & Productivity:** Git, GitHub, Microsoft 365
-- **Languages:** English (C2 - Proficient / Native Level), Portuguese (Native)
+- **Languages:** English (C1 advanced - Proficient / Native Level), Portuguese (Native)
 
 ---
 
@@ -27,6 +27,9 @@ A complete library management system evolution showing backend fundamentals, web
 * **[Bibliotech_Refatorado](#)** — Refactored version applying Clean Code principles, design patterns, and improved architecture.
 
 ---
+
+### Certificates
+- **EF SET** — C1 Advanced English
 
 ### Let's Connect!
 
