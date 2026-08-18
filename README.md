@@ -28,8 +28,9 @@ A complete library management system evolution showing backend fundamentals, web
 
 ---
 
-### Certificates
+### Certificates & Courses
 - **EF SET** — C1 Advanced English
+- **Atlassian** — Get the most out of Jira Learning Path
 
 ### Let's Connect!
 
